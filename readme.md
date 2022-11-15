@@ -1,2 +1,1 @@
-# 
-Krea-Tout-Eure-Blog-Wordpress 
+# Krea-Tout-Eure-Blog-Wordpress 
